@@ -2,7 +2,7 @@ Summary day 2:
 
 Ini menjawab pertanyaan nomor 1 dan 3 sekaligus ya mas. :D
 
-(init) mensinkronisasi folder di komputer/local dengan web git
+(init) initialized git
 (touch) membuat folder baru
 (status) untuk cek status git
 (remote add origin) sinkronisasi link git dengan komputer
